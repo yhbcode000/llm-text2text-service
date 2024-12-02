@@ -1,5 +1,7 @@
 # 📝 LLM Text-to-Text Service
 
+> ‼️This project is deprecated due to advancement of LLM eco system. To see more advancement based on current project, check our latest repo here: https://github.com/AierLab/MultiverseNote .
+
 The **LLM Text-to-Text Service** is a wrapper that integrates third-party open-source Large Language Models (LLM) services for modular purposes. This service leverages **OLLAMA** for local deployment and provides APIs for interacting with models like **ChatGPT**, **ChatGLM**, and **JAIS** for fine-tuning and delivering text-to-text services.
 
 ## 📋 Table of Contents
